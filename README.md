@@ -1,1 +1,2 @@
-# asp-net-5-training
+# Introduction to the Course
+
