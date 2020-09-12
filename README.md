@@ -13,4 +13,5 @@
 * [Hosting and Deployment](10-hosting-and-deployment.md)
 * [Migrating from .NET Framework](11-migrating-from-net-framework.md)
 * [Docker and Containers](12-docker-and-containers.md)
-* [ASP.NET 5 and the Cloud](13-aspnet-5-and-the-cloud.md)
+* [ASP.NET 5 and Azure](13-aspnet-5-and-Azure.md)
+* [ASP.NET 5 and AWS](14-aspnet-5-and-AWS.md)
