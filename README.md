@@ -1,5 +1,3 @@
-﻿# Table of contents
-
 * [Introduction to the Course](00-SUMMARY.md)
 * [What's new in C\# 9](01-c-9.md)
 * [Entity Framework Core 5.0](02-entity-framework-core-5.md)
