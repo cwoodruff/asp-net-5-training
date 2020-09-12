@@ -1,4 +1,4 @@
-# ASP.NET 5 and the Cloud
+# ASP.NET 5 and AWS
 
 ## Introduction
 
