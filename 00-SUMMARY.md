@@ -14,4 +14,3 @@
 * [Migrating from .NET Framework](11-migrating-from-net-framework.md)
 * [Docker and Containers](12-docker-and-containers.md)
 * [ASP.NET 5 and the Cloud](13-aspnet-5-and-the-cloud.md)
-
